@@ -1,2 +1,3 @@
 # nsysuaop
-程式應用作業
+## week 1
+[EX01-01](EX01_01_加法器.ipynb)
