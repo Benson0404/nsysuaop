@@ -9,3 +9,4 @@
 - [EX01-06](EX01_06_簡易購物車.ipynb)
 ## week 3
 - [EX01-07](EX01_07_美食資訊查詢.ipynb)
+- [EX02-01](EX02_01_My_Chatbot.ipynb)
