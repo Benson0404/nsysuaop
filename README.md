@@ -13,3 +13,6 @@
 
 ## week 4
 - [EX02-02](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
+
+## week 5
+- [EX02-03](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)
