@@ -20,3 +20,4 @@
 
 ## week 6
 - [EX02-05 PTT_Gossiping](EX02_05_PTT_Gossiping.ipynb)
+- [EX02-06 抓取電影資料](EX02_06_開眼電影.ipynb)
