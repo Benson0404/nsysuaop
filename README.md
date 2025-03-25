@@ -17,3 +17,6 @@
 ## week 5
 - [EX02-03](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)
 - [EX02-04](EX02_04_Download_Pokemon_Images.ipynb)
+
+## week 6
+-[EX02-05](EX02_05_PTT_Gossiping.ipynb)
