@@ -24,3 +24,6 @@
 
 ## week 7
 - [EX02-07 KKDay抓取飯店資料](EX02_07_KKDay.ipynb)
+
+## week 8
+- [EX03-01 公司薪資概況Ⅰ](EX03_01_公司薪資概況Ⅰ.ipynb)
