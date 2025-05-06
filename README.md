@@ -38,5 +38,5 @@
 - [EX03-06 各縣市出生人口數統計](EX03_06_出生人口數.ipynb)
 - [EX03-07 Tips資料分析.ipynb](EX03_07_Tips.ipynb)
 
-## week 11
+## week 12
 - [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
