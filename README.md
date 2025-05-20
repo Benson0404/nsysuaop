@@ -43,3 +43,6 @@
 - [EX05-02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
 - [EX05-03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05-04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
+
+## week 13
+- [EX04-01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
